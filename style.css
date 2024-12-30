@@ -1,5 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Cabin:wght@400;500;600;700&display=swap');
 
+* {
+    scroll-behavior: smooth;
+    transition: scroll-behavior 0.3s ease;
+}
+
 body {
     font-family: 'Cabin';
     background-color: #758190;
@@ -11,6 +16,7 @@ body {
 
 .header {
     display: flex;
+    justify-content: space-between;
     background-color: lightblue;
     padding: 1%;
     align-items: center;
@@ -19,8 +25,25 @@ body {
     margin-top: -10px;
 }
 
+#games__link {
+    text-decoration: none;
+    font-size: 1.5rem;
+    color: black;
+    transition: font-weight 0.3s ease;
+}
+
+#games__link:hover {
+    font-weight: bolder;
+}
+
 .stats-container {
     display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+
+.stats-container:hover {
+    box-shadow: 0 0 30px lightblue;
 }
 
 .stats-card {
@@ -72,4 +95,21 @@ button {
     padding: 1%;
     margin: 1%;
     border-radius: 7px;
+    cursor: pointer;
+}
+
+.btn:hover {
+    animation: button 0.3s ease-in-out  ;
+}
+
+@keyframes button {
+    0% {
+        transform: scale(1);
+    }
+    50% {
+        transform: scale(1.1);
+    }
+    100% {
+        transform: scale(1);
+    }
 }

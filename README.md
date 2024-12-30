@@ -1,23 +1,29 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - *Sea Monster Crowdfunding*
 
-Submitted by: **Your Name Here**
+Submitted by: **Piyush Belbase**
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**Sea Monster Crowdfunding** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **X** hours spent in total
+Time spent: **11** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-* [ ] The introduction section explains the background of the company and how many games remain unfunded.
-* [ ] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
-* [ ] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
-* [ ] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
+* [Yes] The introduction section explains the background of the company and how many games remain unfunded.
+* [Yes] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
+* [Yes] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
+* [Yes] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [Yes] List anything else that you can get done to improve the app functionality!
+Added a title tag
+Added a link that directs user to the games section using smooth behaviour
+Styled the link with a hover transition
+Added animation to the buttons to play on hover
+
+
 
 ## Video Walkthrough
 
@@ -35,10 +41,11 @@ GIF created with ...
 ## Notes
 
 Describe any challenges encountered while building the app.
+The secret code gave some trouble in the way and since it was a prestructure of the app andI just had to fill in the gaps, I was hesitating to actually write the code in order to not mess it up.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2024] [Piyush Belbase]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
