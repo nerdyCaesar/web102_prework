@@ -18,18 +18,18 @@ The following **required** functionality is completed:
 The following **optional** features are implemented:
 
 * [Yes] List anything else that you can get done to improve the app functionality!
-Added a title tag
-Added a link that directs user to the games section using smooth behaviour
-Styled the link with a hover transition
-Added animation to the buttons to play on hover
+--> Added a title tag
+--> Changed the ehading from plain text to a link
+--> Added a link that directs user to the games section using smooth behaviour
+--> Styled the link with a hover transition
+--> Added animation to the buttons to play on hover
 
 
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/a/GSXc5ey.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  

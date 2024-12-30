@@ -25,6 +25,13 @@ body {
     margin-top: -10px;
 }
 
+#heading {
+    text-decoration: none;
+    font-size: 1.75rem;
+    color: black;
+    font-weight: bolder;
+}
+
 #games__link {
     text-decoration: none;
     font-size: 1.5rem;
