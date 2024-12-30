@@ -11,13 +11,13 @@ Time spent: **11** hours spent in total
 The following **required** functionality is completed:
 
 * [Yes] The introduction section explains the background of the company and how many games remain unfunded.
-* [Yes] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
-* [Yes] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
-* [Yes] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
+* [X] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
+* [X] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
+* [X] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
 The following **optional** features are implemented:
 
-* [Yes] List anything else that you can get done to improve the app functionality!
+* [X] List anything else that you can get done to improve the app functionality!
 --> Added a title tag
 --> Changed the ehading from plain text to a link
 --> Added a link that directs user to the games section using smooth behaviour
