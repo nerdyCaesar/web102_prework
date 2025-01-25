@@ -17,12 +17,12 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [X] List anything else that you can get done to improve the app functionality!
---> Added a title tag
---> Changed the ehading from plain text to a link
---> Added a link that directs user to the games section using smooth behaviour
---> Styled the link with a hover transition
---> Added animation to the buttons to play on hover
+* List anything else that you can get done to improve the app functionality!
+* [X] Added a title tag
+* [X] Changed the ehading from plain text to a link
+* [X] Added a link that directs user to the games section using smooth behaviour
+* [X] Styled the link with a hover transition
+* [X] Added animation to the buttons to play on hover
 
 
 
