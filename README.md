@@ -32,7 +32,7 @@ Here's a walkthrough of implemented features:
 <video src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' >
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with Licecap 
+GIF created with [Licecap] 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
